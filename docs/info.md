@@ -6,15 +6,22 @@ sections.
 You can also include images in this folder and reference them in the markdown. Each image must be less than
 512 kb in size, and the combined size of all images must be less than 1 MB.
 -->
+[Tiny Tapeout Puzzles](https://tinytapeout.com/digital_design/holidays/)
 
-## How it works
+In this puzzle you have to work out how to set the switches to get the last led to light up.
 
-Explain how your project works
+Your friend has been working hard to plan a vacation. (Un)fortunately, they love digital logic, so rather than print you an itinerary, they drew you the following digital circuit.
+  
+Two vacations are possible: can you use the switches to figure out where you'll go, what you'll eat, and what souvenir you'll return with?
 
-## How to test
 
-Explain how to use your project
-
-## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+| Switch # |           |
+|----------|-----------|
+| 1        | Beach     |
+| 2        | Mountains |
+| 3        | Ski       |
+| 4        | Swim      |
+| 5        | Ice Cream |
+| 6        | Fondue    |
+| 7        | Tacos     |
+| 8        | Sun Burn  |
